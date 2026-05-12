@@ -1,0 +1,4 @@
+# Author: Zhi Zheng
+__pycache__/
+*.py[cod]
+solver_log.txt
