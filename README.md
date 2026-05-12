@@ -24,8 +24,8 @@ Contact: z.zheng25@imperial.ac.uk
 
 For each wettability case, the script:
 
-1. Defines Corey-type two-phase relative permeability parameters.
-2. Builds Baker-style three-phase relative permeability surfaces.
+1. Defines Corey two-phase relative permeability parameters.
+2. Builds Baker three-phase relative permeability surfaces.
 3. Constructs an analytical saturation path from the left state `L` to the
    right state `R`.
 4. Runs a one-dimensional finite-volume numerical simulation.
